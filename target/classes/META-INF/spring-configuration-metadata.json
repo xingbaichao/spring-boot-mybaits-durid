@@ -1,0 +1,121 @@
+{
+  "groups": [{
+    "name": "datasource",
+    "type": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration",
+    "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration"
+  }],
+  "properties": [
+    {
+      "name": "datasource.base-package",
+      "type": "java.lang.String",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration"
+    },
+    {
+      "name": "datasource.connection-properties",
+      "type": "java.lang.String",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration"
+    },
+    {
+      "name": "datasource.driver",
+      "type": "java.lang.String",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration"
+    },
+    {
+      "name": "datasource.entity",
+      "type": "java.lang.String",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration"
+    },
+    {
+      "name": "datasource.initial-size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration",
+      "defaultValue": 0
+    },
+    {
+      "name": "datasource.max-active",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration",
+      "defaultValue": 0
+    },
+    {
+      "name": "datasource.max-pool-prepared-statement-per-connection-size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration",
+      "defaultValue": 0
+    },
+    {
+      "name": "datasource.max-wait",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration",
+      "defaultValue": 0
+    },
+    {
+      "name": "datasource.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration",
+      "defaultValue": 0
+    },
+    {
+      "name": "datasource.password",
+      "type": "java.lang.String",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration"
+    },
+    {
+      "name": "datasource.path",
+      "type": "java.lang.String",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration"
+    },
+    {
+      "name": "datasource.pool-prepared-statements",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration",
+      "defaultValue": false
+    },
+    {
+      "name": "datasource.remove-abandoned",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration",
+      "defaultValue": false
+    },
+    {
+      "name": "datasource.remove-abandoned-timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration",
+      "defaultValue": 0
+    },
+    {
+      "name": "datasource.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration",
+      "defaultValue": false
+    },
+    {
+      "name": "datasource.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration",
+      "defaultValue": false
+    },
+    {
+      "name": "datasource.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration",
+      "defaultValue": false
+    },
+    {
+      "name": "datasource.url",
+      "type": "java.lang.String",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration"
+    },
+    {
+      "name": "datasource.username",
+      "type": "java.lang.String",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration"
+    },
+    {
+      "name": "datasource.validation-query",
+      "type": "java.lang.String",
+      "sourceType": "com.sevencailongzhu.art.ecommerce.config.MybatisConfiguration"
+    }
+  ],
+  "hints": []
+}
